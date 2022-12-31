@@ -1,2 +1,2 @@
 # XO-GAME
-BASIC
+BASIC XO
